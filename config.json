@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smscync",
+        "uuid": 9180865,
+        "checksum": "a2rpiv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
